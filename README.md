@@ -1,9 +1,6 @@
 # Cache Simulator in Python
 
 This is a cache simulator in Python that demonstrates the basic concepts of a cache, including replacement policies (LRU) and data manipulation in the cache.
-# Cache Simulator in Python
-
-This code provides a simple cache simulator, aimed at demonstrating basic concepts of a cache system in a computing context.
 
 ## Demonstrated Concepts
 
