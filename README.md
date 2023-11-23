@@ -77,7 +77,7 @@ Make sure to have Python installed in your environment. Run the code using:
 
 ```bash
 python filename.py
-
+```
 # Data Analysis Project Introduction
 
 I sincerely appreciate your time dedicated to reading and following along with this initial data analysis project. This notebook serves as a starting point to explore the vast field of data analysis, providing a practical and structured insight.
